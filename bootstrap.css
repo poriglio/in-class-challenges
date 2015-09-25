@@ -1,0 +1,52 @@
+.burlywood{
+	background-color: burlywood;
+}
+
+.magenta{
+	background-color: mediumvioletred;
+}
+
+.blue{
+	background-color: mediumslateblue;
+}
+
+.darkmagenta{
+	background-color: darkmagenta;
+}
+
+/*CHALLENGE:
+
+fluid container
+
+2 rows:
+
+row 1: 3 column containers
+	
+	1st. full width on xtra small and small
+		half width on medium
+		25% on large and xlg
+	
+	2nd. same as first
+	
+	3rd. full width on xs, sm, med, 50% on lrg + xlrg
+
+row 2: 4 column containers
+	
+	1st - full width on xs; 2 columns on sm; 3 columns on med
+
+	2nd - full width on xs; 2 columns on sm; 3 columns on med
+
+	3rd - full width on xs; 2 columns on sm; 3 columns on med
+
+	4th - full width on xs; 2 columns on sm; 3 columns on med
+
+	Challenge:
+
+	Inline form
+	label/input on same line
+
+	city, state, zip
+
+	submit button at end
+	
+*/
