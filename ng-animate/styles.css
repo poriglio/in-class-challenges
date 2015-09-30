@@ -1,0 +1,13 @@
+.dog{
+	transition: all 1s ease;
+	opacity: 1;
+	position: relative;
+	color: red;
+	top: 0;
+}
+
+.dog.ng-hide{
+	opacity: 0;
+	color: blue;
+	top: 100%;
+}
